@@ -10,7 +10,7 @@ Começa com uma matriz de similaridade ou matriz de dissimilaridade (= matriz de
 O PCA é conceitualmente semelhante ao PCA e à análise de correspondência (CA), que preservam as distâncias Euclidiana e qui-quadrada entre os objetos, respectivamente. No entanto, o PCoA pode preservar as distâncias geradas a partir de qualquer medida de (des)similaridade, permitindo um tratamento mais flexível de dados ecológicos complexos. 
 PCA é comumente usado para semelhanças e PCoA para dissimilaridades.
 
-## Referências  
+## Referências   
 Canal StatiR. Análise de Componentes Principais no R. Disponivel em: https://www.youtube.com/watch?v=CHwXquIukw8. Acesso em: 15 jan. 2024.  
 Canale Erre - Aprenda. Análise de Coordenadas Principais (PCoA) no programa R. Disponivel em: https://www.youtube.com/watch?v=zIHcacY3UaM. Acesso em: 15 jan. 2024. 
 LEONI, R. C. Análise de Componentes Principais - ACP. PCA baseado na matriz de correlação: dados dos recordes nacionais masculinos de oito provas de pista em 2005. Disponivel em: https://rstudio-pubs-static.s3.amazonaws.com/251274_e2b853c9581c4a31a41eb9fcaeaa3a5f.html. Acesso em: 16 jan. 2024. 
